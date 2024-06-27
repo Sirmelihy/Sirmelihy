@@ -1,4 +1,6 @@
-## Hi there 👋
+- 🔭 I’m currently working on [Rater INC](https://github.com/Rater-Inc)
+- 🌱 I’m currently learning basically everything about dev
+- 📫 How to reach me: melihokutanbs@hotmail.com
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sirmelihy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -7,7 +9,7 @@
 
 <!--
 **Sirmelihy/Sirmelihy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
